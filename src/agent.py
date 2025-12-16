@@ -52,7 +52,7 @@ agent_os = AgentOS(
 )
 app = agent_os.get_app()
 
-
+ 
 # ============= Execução ============== #
 if __name__ == "__main__":
     agent_os.serve(app="src.agent:app", host="localhost", port=7777, reload=True)

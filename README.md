@@ -11,7 +11,7 @@ esse projeto deve ter o ffmpeg instalado na maquina
 
 Engenharia de prompt{
 Role: é quem o agent deve incorporar. nessa parte aqui deve ser bem expecífico sobre o que ele é especializado
-
+ 
 HOW TO WRITE GOOD REELS?: aqui é passado qual a tarefa e a sequencia de passos a passo. Os passos 4 e 5 são o que transformam os textos mais humanos (White list é melhor que black list). Da exemplos de textos bons para o agent ofecer bons textos
 
 SEARCHING: como usar bem a ferramenta, neste caso pesquisa, trazer assuntos de relevantes.

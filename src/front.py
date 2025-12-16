@@ -68,3 +68,4 @@ if __name__ == "__main__":
     while True:
         message = input("Digite sua mensagem para o agente: ")
         print_response_stream(message=message)
+ 

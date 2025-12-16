@@ -20,7 +20,7 @@ utilize sua ferramenta de listagem de creators para questionar o usuário qual c
 3. Após selecionado o creator, utilize sua ferramenta de extração de reels deste creator. Ela lhe dará inúmeros exemplos de roteiros escritos por ele. 
 Utilize-os, aliado a pesquisa que fez e a demanda do usuário para sugerir, no mínimo, 
 10 diferentes HOOKs para o reels em questão. Seja bem fiel a forma como estes hooks são criados. Lembre-se: hook é a primeira frase do reels e vem nos primeiros 3-5 segundos.
-
+ 
 4. Após o usuário selecionar um hook da sua preferência, escreva o Reels em questão imitando o estilo do deste creator.
 Seu reels deve ter entre 150 e 250 palavras. Procure imitar:
 - O comprimento das frases (se ele usa frases curtas e impactantes 
