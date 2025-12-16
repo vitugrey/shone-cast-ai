@@ -29,7 +29,7 @@ sdist = { url = "https://files.pythonhosted.org/packages/55/f2/e2a83cbeabe18a96a
 wheels = [
     { url = "https://files.pythonhosted.org/packages/a4/ea/065e6c85da0cfb52d738306b826133e426f9806bedbea277a5e956cd3e5d/agno-2.3.12-py3-none-any.whl", hash = "sha256:3d363285f89a23b17e7e986d67d0fa094cc676e2c68e4c0bab250d572ec879a9", size = 1536332, upload-time = "2025-12-12T19:55:28.195Z" },
 ]
- 
+
 [[package]]
 name = "annotated-doc"
 version = "0.0.4"

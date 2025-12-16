@@ -60,7 +60,7 @@ def process_video():
     with open("transcriptions.json", "w", encoding="utf-8") as f:
         json.dump(transcriptions, f, indent=2, ensure_ascii=False)
 
- 
+
 # ============= Execução ============== #
 if __name__ == "__main__":
     pass

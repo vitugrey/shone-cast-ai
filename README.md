@@ -1,6 +1,6 @@
 Agente de AI com algumas ferramentas e prompt refinado expecialista em montar roteiros de videos curtos
 com capacidade de reter a atenção. Colocando o máximo de conteúdo técnico de forma dopamiergico.
-
+ 
 STT{
 modelo do gpt no HF: https://huggingface.co/openai/gpt-oss-120b
 modelo STT off: https://github.com/SYSTRAN/faster-whisper 

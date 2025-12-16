@@ -65,7 +65,7 @@ def list_available_creators():
     except Exception as e:
         return f"Erro ao listar criadores: {str(e)}"
 
- 
+
 # ============= Execução ============== #
 if __name__ == "__main__":
     pass
